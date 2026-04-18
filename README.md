@@ -9,8 +9,10 @@
 файлы опубликованы в открытый доступ лишь с целью ознакомления с функциями бота, комерческое/использование в 
 недобросовестных целях запрещается (автор отвественности не несет, при нарушении пользователем данного примечания)
 ```
+
+Библиотеки Python, что я использовал: 
 ```
-Библиотеки Python, что я использовал: discord.py discord.py[voice] Pillow psutil numpy edge-tts PyNaCl vosk discord-ext-voice-recv
+discord.py discord.py[voice] Pillow psutil numpy edge-tts PyNaCl vosk discord-ext-voice-recv
 ```
 
 #Start Up Info:
